@@ -1,0 +1,104 @@
+# =========================
+# Patient 1 – very high risk
+# =========================
+patient_id=P001
+glucose=19.5
+trend=0.12
+ketones=2.2
+iob=3.5
+time_since_meal=1.0
+symptoms=severe
+hr=118
+hr_base=72
+hba1c=10.1
+tir=28
+cv=44
+severe_hypo=3
+acr=120
+ldl=4.5
+duration_years=22
+comorbidities=3
+
+# =========================
+# Patient 2 – high risk
+# =========================
+patient_id=P002
+glucose=17.0
+trend=0.06
+ketones=1.0
+iob=2.5
+time_since_meal=4.5
+symptoms=moderate
+hr=102
+hr_base=68
+hba1c=9.0
+tir=40
+cv=38
+severe_hypo=2
+acr=55
+ldl=3.6
+duration_years=15
+comorbidities=2
+
+# =========================
+# Patient 3 – moderate risk
+# =========================
+patient_id=P003
+glucose=11.2
+trend=0.03
+ketones=0.4
+iob=1.2
+time_since_meal=3.0
+symptoms=mild
+hr=88
+hr_base=70
+hba1c=7.8
+tir=55
+cv=32
+severe_hypo=1
+acr=18
+ldl=2.8
+duration_years=10
+comorbidities=1
+
+# =========================
+# Patient 4 – low–moderate risk
+# =========================
+patient_id=P004
+glucose=8.6
+trend=0.01
+ketones=0.1
+iob=0.8
+time_since_meal=5.5
+symptoms=none
+hr=78
+hr_base=72
+hba1c=6.9
+tir=70
+cv=25
+severe_hypo=0
+acr=8
+ldl=2.2
+duration_years=6
+comorbidities=1
+
+# =========================
+# Patient 5 – low risk
+# =========================
+patient_id=P005
+glucose=6.2
+trend=0.00
+ketones=0.0
+iob=0.5
+time_since_meal=6.0
+symptoms=none
+hr=72
+hr_base=70
+hba1c=6.1
+tir=82
+cv=20
+severe_hypo=0
+acr=4
+ldl=1.9
+duration_years=3
+comorbidities=0

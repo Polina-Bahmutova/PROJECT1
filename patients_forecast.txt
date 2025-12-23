@@ -1,0 +1,199 @@
+# =========================
+# Patient 1
+# =========================
+glucose=7.8
+trend=0.04
+ketones=0.2
+iob=1.5
+time_since_meal=1.2
+symptoms=mild
+hr=78
+hr_base=70
+hba1c=6.8
+tir=72
+cv=28
+severe_hypo=0
+acr=12
+ldl=2.6
+duration_years=4
+comorbidities=0
+
+# =========================
+# Patient 2
+# =========================
+glucose=14.2
+trend=0.12
+ketones=1.4
+iob=3.8
+time_since_meal=0.5
+symptoms=moderate
+hr=96
+hr_base=72
+hba1c=8.9
+tir=48
+cv=42
+severe_hypo=2
+acr=85
+ldl=3.4
+duration_years=11
+comorbidities=1
+
+# =========================
+# Patient 3
+# =========================
+glucose=5.6
+trend=0.02
+ketones=0.0
+iob=0.4
+time_since_meal=3.8
+symptoms=none
+hr=66
+hr_base=64
+hba1c=6.1
+tir=82
+cv=22
+severe_hypo=0
+acr=8
+ldl=2.1
+duration_years=2
+comorbidities=0
+
+# =========================
+# Patient 4
+# =========================
+glucose=18.6
+trend=0.18
+ketones=2.6
+iob=5.2
+time_since_meal=0.2
+symptoms=severe
+hr=110
+hr_base=75
+hba1c=10.4
+tir=31
+cv=45
+severe_hypo=3
+acr=220
+ldl=4.6
+duration_years=18
+comorbidities=2
+
+# =========================
+# Patient 5
+# =========================
+glucose=9.1
+trend=0.06
+ketones=0.3
+iob=2.1
+time_since_meal=2.5
+symptoms=mild
+hr=82
+hr_base=74
+hba1c=7.2
+tir=65
+cv=30
+severe_hypo=1
+acr=24
+ldl=2.9
+duration_years=6
+comorbidities=1
+
+# =========================
+# Patient 6
+# =========================
+glucose=4.2
+trend=0.10
+ketones=0.1
+iob=1.8
+time_since_meal=4.5
+symptoms=moderate
+hr=58
+hr_base=68
+hba1c=6.5
+tir=78
+cv=35
+severe_hypo=2
+acr=15
+ldl=2.4
+duration_years=9
+comorbidities=0
+
+# =========================
+# Patient 7
+# =========================
+glucose=16.9
+trend=0.15
+ketones=2.1
+iob=4.6
+time_since_meal=0.8
+symptoms=severe
+hr=105
+hr_base=76
+hba1c=9.8
+tir=38
+cv=41
+severe_hypo=4
+acr=160
+ldl=4.1
+duration_years=14
+comorbidities=2
+
+# =========================
+# Patient 8
+# =========================
+glucose=6.3
+trend=0.03
+ketones=0.0
+iob=0.9
+time_since_meal=3.1
+symptoms=none
+hr=70
+hr_base=69
+hba1c=5.9
+tir=88
+cv=19
+severe_hypo=0
+acr=6
+ldl=1.9
+duration_years=1
+comorbidities=0
+
+# =========================
+# Patient 9
+# =========================
+glucose=11.7
+trend=0.09
+ketones=0.9
+iob=3.0
+time_since_meal=1.0
+symptoms=moderate
+hr=90
+hr_base=73
+hba1c=8.1
+tir=54
+cv=37
+severe_hypo=2
+acr=65
+ldl=3.2
+duration_years=10
+comorbidities=1
+
+# =========================
+# Patient 10
+# =========================
+glucose=19.4
+trend=0.20
+ketones=3.0
+iob=5.8
+time_since_meal=0.1
+symptoms=severe
+hr=118
+hr_base=78
+hba1c=11.2
+tir=22
+cv=45
+severe_hypo=5
+acr=280
+ldl=5.0
+duration_years=25
+comorbidities=3
